@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Assistant</string>
+    <string name="action_settings">User Manual</string>
+    <string name="press">PRESS the mic below and speak after the beep sound</string>
+    <string name="noconnection">Internet Connection Not Available</string>
+    <string name="nosound">No Sound Recorded</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Open Any APP</string>
+    <string name="slide_1_desc">The easiest way to open any app on your device!..say the app name after the word OPEN</string>
+
+    <string name="slide_2_title">DIAL any number </string>
+    <string name="slide_2_desc">Dial any number directly just by your voice </string>
+
+    <string name="slide_3_title">SEARCH on the web</string>
+    <string name="slide_3_desc">Search on the net without having to type the thing out</string>
+
+    <string name="slide_4_title">Time and Weather</string>
+    <string name="slide_4_desc">Get the current time and the weather forcast on your command</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="click_the_button">CLICK TO SPEAK</string>
+    <string name="contact_dev">Contact Dev</string>
+    <string name="open">1. Open any APP - To open any app installed on your device just say the name of the app followed by the keyword open </string>
+    <string name="assistant_app">Assistant App</string>
+
+
+    <string name="mail">Feel free to contact us regrarding any queries or problems regarding the APP.Your suggestions are greatly appreciated.</string>
+    <string name="app">Apps installed on your device</string>
+    <string name="dial">2. Directly dial any phone number just say the DIAL followed by the mobile number.</string>
+    <string name="open_sub">Click here to check the list of apps installed on your device</string>
+    <string name="dial_sub">E.g- say dial 99xx-xxxx-xx and it will place the call immediately</string>
+    <string name="search">3. Search directly on the web just by saying what you want to search.</string>
+    <string name="search_sub">E.g- search upcoming smartphones under 10000 rs</string>
+    <string name="time">4. Get the current time and date just by asking the app.</string>
+    <string name="time_sub">E.g- what is the time of what date is today</string>
+</resources>
